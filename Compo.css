@@ -1,0 +1,28 @@
+.container {
+    border: 1px solid black;
+    height: 450px;
+    margin-top: 5vh;
+    width: 400px;
+}
+.row {
+    border: 1px solid black;
+    height: 150px;
+}
+.col {
+    border: 1px solid black;
+    height: 100%;
+}
+h1 {
+    margin-left: 70vh;
+}
+button {
+    background-color:rgb(178, 177, 177)
+}
+button:hover {
+    background-color: rgb(95, 94, 94);
+}
+.btn {
+    margin-left: 92vh;
+    margin-top: 20px;
+    width: 120px;
+}
