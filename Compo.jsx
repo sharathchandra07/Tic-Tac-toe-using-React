@@ -78,7 +78,7 @@ const Compo = () => {
                 <button className="col" onClick={(e)=>{toggle(e, 8)}}></button>
             </div>
         </div>
-        <button className='btn btn-secondary' onClick={reset}><b>Reset</b></button>
+        <button className='btn btn-success' onClick={reset}><b>Reset</b></button>
         </div>
     )
 }
